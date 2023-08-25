@@ -1,5 +1,6 @@
 # Servicio REST Clientes 
 Proyecto sencillo(API REST) hecha con  Springboot
+Vease el final del documento con la  referencia a la lógica de la aplicación
 **Tecnologías usadas**
 * Java
 * Springboot
@@ -10,16 +11,15 @@ Proyecto sencillo(API REST) hecha con  Springboot
 
 ```
 git clone https://github.com/bryanpd99/SpringSimpleAPI.git
-cd music-app
 ```
 
 ### Importa el proyecto en tu IDE (Eclipse)
 
-Update your Project with right click on your Project > Maven > Update Project :
+Actualiza el proyecto > Maven > Update Project :
 
-Make sure your java library installed with check it in lists of Maven Dependency
+Comprueba las librerias y dependnecias de java
 
-Your also can update your project with terminal : 
+Via  terminal se puede comprobar: 
 ```
 mvn clean install
 ```
@@ -114,5 +114,7 @@ Los test se puede ejecutar automáticamente como  JUnit 5
 **Nota:** Verificar que las dependencias se encuentren correctamente incluidas en el proyecto para que los mocks y los test puean correr con normalidad.
 
 ## Autor
-
 * @bryanpd99
+### Referencia del proyecto
+Vease el enlace minegocio.com.ec/wp-content/uploads/2023/07/ejercicioPracticoSpring.pdf
+* 
